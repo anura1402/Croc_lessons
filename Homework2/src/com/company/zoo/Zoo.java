@@ -18,7 +18,6 @@ public class Zoo {
     public void addAnimal(Animal animal) {
         animals = Arrays.copyOf(animals, animals.length + 1);
         animals[animals.length - 1] = animal;
-
     }
 
     /**
