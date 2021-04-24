@@ -1,0 +1,37 @@
+﻿<transports>
+    <transport>
+        <type>bus</type>
+        <number>7</number>
+        <coordinateX>1</coordinateX>
+        <coordinateY>13</coordinateY>
+        <datetime>01/01/2021 10:11:14</datetime>
+    </transport>
+    <transport>
+        <type>bus</type>
+        <number>7</number>
+        <coordinateX>6</coordinateX>
+        <coordinateY>16</coordinateY>
+        <datetime>01/01/2021 10:12:03</datetime>
+    </transport>
+    <transport>
+        <type>bus</type>
+        <number>20</number>
+        <coordinateX>5</coordinateX>
+        <coordinateY>13</coordinateY>
+        <datetime>01/01/2021 10:13:30</datetime>
+    </transport>
+    <transport>
+        <type>bus</type>
+        <number>20</number>
+        <coordinateX>11</coordinateX>
+        <coordinateY>17</coordinateY>
+        <datetime>01/01/2021 10:12:02</datetime>
+    </transport>
+    <transport>
+        <type>bus</type>
+        <number>20</number>
+        <coordinateX>20</coordinateX>
+        <coordinateY>13</coordinateY>
+        <datetime>01/01/2021 10:13:11</datetime>
+    </transport>
+</transports>
